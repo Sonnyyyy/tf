@@ -1,0 +1,15 @@
+"LightMappedGeneric"
+{
+"$baseTexture" "animated/ratwalk"
+"$translucent" 1
+"$surfaceprop" "flesh"
+"Proxies"
+{
+"ToggleTexture"
+{
+"toggletexturevar" "$basetexture"
+"toggletextureframenumvar" "$frame"
+"toggletextureshouldwrap" "0"
+}
+}
+}
