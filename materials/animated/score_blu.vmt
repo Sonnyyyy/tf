@@ -1,0 +1,15 @@
+"LightMappedGeneric"
+{
+"$baseTexture" "animated/score_blu"
+"$translucent" 1
+"$surfaceprop" "flesh"
+"Proxies"
+{
+"ToggleTexture"
+{
+"toggletexturevar" "$basetexture"
+"toggletextureframenumvar" "$frame"
+"toggletextureshouldwrap" "0"
+}
+}
+}
